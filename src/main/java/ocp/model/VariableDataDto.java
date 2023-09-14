@@ -20,4 +20,3 @@ public class VariableDataDto {
         this.value = value;
     }
 }
-z
