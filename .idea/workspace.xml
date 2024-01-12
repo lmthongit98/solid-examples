@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab53280b-dadf-40e2-9605-47798fe8ac73" name="Changes" comment="lsp">
-      <change afterPath="$PROJECT_DIR$/src/main/java/isp/ISPExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lsp/LSPExample2.java" afterDir="false" />
+    <list default="true" id="ab53280b-dadf-40e2-9605-47798fe8ac73" name="Changes" comment="add spring boot">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/model/VariableDataDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/model/VariableDataDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/after/RuleEngineServiceAfter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/after/RuleEngineServiceAfter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/after/factory/impl/VariableDataSourceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/after/factory/impl/VariableDataSourceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/after/strategty/impl/ApiVariableDataSourceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/after/strategty/impl/ApiVariableDataSourceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/after/strategty/impl/InternalVariableDataSourceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/after/strategty/impl/InternalVariableDataSourceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/after/strategty/impl/SqlVariableDataSourceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/after/strategty/impl/SqlVariableDataSourceService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +34,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2VL45gawlcFfN5uIk8TLkQy39j6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,11 +50,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/lminhthong/Workspace/java/solid-examples",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -55,6 +69,21 @@
       <recent name="ocp.after.strategty.impl" />
       <recent name="ocp.after" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="demo" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,6 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694601851766</updated>
+      <workItem from="1705042790044" duration="708000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1694608122002</created>
@@ -117,6 +147,9 @@
     <option name="localTasksCounter" value="8" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -131,6 +164,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="lsp" />
-    <option name="LAST_COMMIT_MESSAGE" value="lsp" />
+    <MESSAGE value="add spring boot" />
+    <option name="LAST_COMMIT_MESSAGE" value="add spring boot" />
   </component>
 </project>

@@ -3,6 +3,7 @@ package ocp.after;
 import ocp.after.factory.VariableDataResolver;
 import ocp.model.Variable;
 import ocp.model.VariableDataDto;
+import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -11,6 +12,7 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+@Service
 public class RuleEngineServiceAfter {
 
     private final VariableDataResolver variableDataResolver;
